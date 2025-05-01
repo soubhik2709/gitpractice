@@ -25,4 +25,4 @@ after add new feature on feature1  , if i go on another branch then the changes 
 [feature1 1083c83] the html and readme file has updated on the feature1 branch
  1 file changed, 4 insertions(+), 2 deletions(-)
 <br>
-now for pushing this change branch and other not changes branches together , by git push origin main
+now for pushing this change branch and other not changes branches together , by git push origin __the current branch name
