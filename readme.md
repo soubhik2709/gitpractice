@@ -14,8 +14,10 @@ git branch -d feature2
 Deleted branch feature2 (was 96a595c).
 <br>
 now im gonna add new feature on the feature1 branch. on idex.html new p tag...so after new p tag, the git status is showing us <br>
-$ git status 
+ git status 
 On branch feature1
 Changes not staged for commit:
 modified:   index.html
  modified:   readme.md
+<br>
+after add new feature on feature1  , if i go on another branch then the changes are not showing on that brunch. but before going on the  another branch , we have to commit the changes otherwise it will overwritten on another branch.
